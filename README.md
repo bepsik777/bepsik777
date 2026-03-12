@@ -4,6 +4,6 @@ Right now i am learning web dev, data structures and algorithms, and i plan to k
 
 
 - 🌱 I’m currently learning the basics of node.js and express
-- 🌱 Writing a simplify git clone from Berkeley CS61B Assignment (gitlet) in java
+- 🌱 Writing a simplified git clone from Berkeley CS61B Assignment (gitlet) in java
 
 
